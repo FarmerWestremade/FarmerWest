@@ -82,61 +82,56 @@ btns:Button("LuxryStore", function()
                 local Orange = plr.Backpack:FindFirstChild("Orange")
 
             if black then
-                wait(1)
+
                 Game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-217.459, 18.5427, -153.339)
                 fireproximityprompt(loaction1)
                 wait(8)
                 Game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-197.35, 16.7427, -109.94)
             elseif White then
-                wait(1)  --I made this open source on puprose lol, yo if your going skid this at least give me a lil credits or just dm me FarmerWest#6634 and if ur a dev well u found out how to patch
+  --I made this open source on puprose lol, yo if your going skid this at least give me a lil credits or just dm me FarmerWest#6634 and if ur a dev well u found out how to patch
                 Game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-217.81, 18.5427, -133.237)
                 fireproximityprompt(loaction2)
                 wait(8)
                 Game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-197.35, 16.7427, -109.94)
             elseif Grey then
-                wait(1)
                 Game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-203.967, 18.5427, -132.996)
                 fireproximityprompt(loaction3)
                 wait(8)
                 Game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-197.35, 16.7427, -109.94)
             elseif Green then
-                wait(1)
                     Game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-203.616, 18.5427, -153.098)
                     fireproximityprompt(loaction4)
                     wait(8)
                     Game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-197.35, 16.7427, -109.94)
             elseif Purple then
-                wait(1)
                         Game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-231.794, 18.5427, -132.424)
                         fireproximityprompt(loaction5)
                         wait(8)
                         Game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-197.35, 16.7427, -109.94) 
             elseif Blue then
-                wait(1)
+
                         Game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-231.436, 18.5427, -152.933)
                         fireproximityprompt(loaction6)
                         wait(8)
                         Game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-197.35, 16.7427, -109.94) 
             elseif Pink then
-                wait(1)
+
                         Game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-254.319, 18.5427, -132.817)
                         fireproximityprompt(loaction7)
                         wait(8)
                         Game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-197.35, 16.7427, -109.94) 
             elseif Red then
-                wait(1)
+
                         Game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-253.961, 18.5427, -153.326)
                         fireproximityprompt(loaction8)
                         wait(8)
                         Game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-197.35, 16.7427, -109.94)  
             elseif Orange then
-                wait(1)
                         Game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-268.308, 18.5427, -133.061)
                         fireproximityprompt(loaction9)
                         wait(8)
                         Game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-197.35, 16.7427, -109.94)  
             elseif Brown then
-                wait(1)
                         Game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-267.95, 18.5427, -153.57)
                         fireproximityprompt(loaction0)
                         wait(8)
